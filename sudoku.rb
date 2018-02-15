@@ -1,3 +1,5 @@
+require 'byebug'
+
 require_relative "board"
 
 class SudokuGame
